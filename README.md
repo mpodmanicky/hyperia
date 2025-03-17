@@ -29,5 +29,7 @@ Zadanie prosím odovzdaj ako link na repozitár u tvojho obľúbeného poskytova
 
 ### Pre spustenie
 `pip3 install requests beautifulsoup4`
+
 potom
-`pytho3 script.py`
+
+`python3 script.py`
