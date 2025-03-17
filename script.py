@@ -47,6 +47,7 @@ class Parser:
             elif "von" in date_range:
                 valid_from = re.sub(r"von \w+", "", date_range).strip()
                 valid_from = datetime.strptime(valid_from, "%d.%m.%Y").strftime("%Y-%m-%d")
+                valid_to = "-"
             else:
                 valid_from = "Unknown"
                 valid_to = "Unknown"

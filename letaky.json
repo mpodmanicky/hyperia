@@ -5,7 +5,7 @@
         "shop_name": "Kaufland",
         "valid_from": "2025-03-13",
         "valid_to": "2025-03-19",
-        "parsed_time": "2025-03-17 18:24:06"
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "EDEKA: Wochenangebote",
@@ -13,7 +13,7 @@
         "shop_name": "Edeka",
         "valid_from": "2025-03-16",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 18:24:06"
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "Prospekt",
@@ -21,7 +21,7 @@
         "shop_name": "Norma",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 18:24:06"
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "Hessen",
@@ -29,15 +29,15 @@
         "shop_name": "Lidl",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 18:24:06"
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "Produktkatalog - Fleisch & Fisch",
         "thumbnail": "https://eu.kimbicdns.com/all/upload/a/7/9/a793f9e0ab2f57cae799afb6a2c98bc72a26abd8/letkim-first-page-de-rewe_028_thumb_240x.jpg",
         "shop_name": "Rewe",
         "valid_from": "2025-03-06",
-        "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 18:24:06"
+        "valid_to": "-",
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "Prospekt",
@@ -45,7 +45,7 @@
         "shop_name": "Netto",
         "valid_from": "2025-03-24",
         "valid_to": "2025-03-29",
-        "parsed_time": "2025-03-17 18:24:06"
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "Prospekt",
@@ -53,7 +53,7 @@
         "shop_name": "Penny",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 18:24:06"
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "Globus: Wochenangebote",
@@ -61,7 +61,7 @@
         "shop_name": "Globus",
         "valid_from": "2025-03-16",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 18:24:06"
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "Prospekt",
@@ -69,7 +69,7 @@
         "shop_name": "Combi",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 18:24:06"
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "Berlin",
@@ -77,15 +77,15 @@
         "shop_name": "HIT",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 18:24:06"
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "Netto: Jetzt auch bei WhatsApp!",
         "thumbnail": "https://eu.leafletscdns.com/thumbor/vvvkqqT-boYIj0PvnbfHjiSTPQs=/full-fit-in/240x240/filters:format(webp):quality(65)/de/data/5/251832/0.jpg?t=1740705479",
         "shop_name": "Netto Marken-Discount",
         "valid_from": "2022-11-15",
-        "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 18:24:06"
+        "valid_to": "-",
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "Onlineshop",
@@ -93,7 +93,7 @@
         "shop_name": "Aldi",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 18:24:06"
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "Prospekt",
@@ -101,7 +101,7 @@
         "shop_name": "NP Discount",
         "valid_from": "2025-03-17",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 18:24:06"
+        "parsed_time": "2025-03-17 18:33:50"
     },
     {
         "title": "Marktkauf: Wochenangebote",
@@ -109,6 +109,6 @@
         "shop_name": "Marktkauf",
         "valid_from": "2025-03-16",
         "valid_to": "2025-03-22",
-        "parsed_time": "2025-03-17 18:24:06"
+        "parsed_time": "2025-03-17 18:33:50"
     }
 ]
