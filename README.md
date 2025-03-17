@@ -26,3 +26,8 @@ Pri implementácií sa sústreď na stabilitu riešenia a dátovú konzistentnos
 
 
 Zadanie prosím odovzdaj ako link na repozitár u tvojho obľúbeného poskytovateľa (Gitlab, Github, Bitbucket, …)
+
+### Pre spustenie
+`pip3 install requests beautifulsoup4`
+potom
+`pytho3 script.py`
